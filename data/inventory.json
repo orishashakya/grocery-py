@@ -1,0 +1,5 @@
+{
+  "101": { "name": "Rice", "price": 60, "quantity": 50 },
+  "102": { "name": "Sugar", "price": 45, "quantity": 30 },
+  "103": { "name": "Milk", "price": 30, "quantity": 20 }
+}
